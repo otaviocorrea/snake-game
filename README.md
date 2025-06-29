@@ -3,6 +3,10 @@
 
 This is a classic Snake game built with DragonRuby.
 
+
+![Gameplay Demo](assets/gameplay.gif)
+
+
 ## How to Play
 
 1.  **Install DragonRuby:** If you don't have it, download it from the [official website](https://dragonruby.org/).
